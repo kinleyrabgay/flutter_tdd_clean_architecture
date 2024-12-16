@@ -1,0 +1,3 @@
+class BTexts {
+  BTexts._();
+}
